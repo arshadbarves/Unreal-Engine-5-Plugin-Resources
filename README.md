@@ -5,7 +5,7 @@ This repo has a list of resources that I have found related to Unreal Engine plu
 Hopefully, this will be useful to some others.
 
 Please pull request any resources you have! If you cannot for whatever reason, feel free to contact me on twitter.
-[@Codekittah](https://twitter.com/arshadbarves)
+[Ping Me](https://twitter.com/arshadbarves)
 
 
 # Tutorials:
