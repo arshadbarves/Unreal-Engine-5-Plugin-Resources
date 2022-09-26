@@ -14,3 +14,6 @@ Please pull request any resources you have! If you cannot for whatever reason, f
 
 * [How to make a tool in Unreal Engine](https://lxjk.github.io/2019/10/01/How-to-Make-Tools-in-U-E.html)
 * [Creating a Custom Asset Type with its own Editor in C++](https://dev.epicgames.com/community/learning/tutorials/vyKB/unreal-engine-creating-a-custom-asset-type-with-its-own-editor-in-c)
+* [Creating an Editor Module](https://unrealcommunity.wiki/creating-an-editor-module-x64nt5g3)
+* [Customizing Detail Panels](https://unrealcommunity.wiki/customizing-detail-panels-g529msrd)
+* [Component Visualizers](https://unrealcommunity.wiki/component-visualizers-xaa1qsng)
