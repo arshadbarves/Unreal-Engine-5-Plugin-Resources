@@ -17,3 +17,4 @@ Please pull request any resources you have! If you cannot for whatever reason, f
 * [Creating an Editor Module](https://unrealcommunity.wiki/creating-an-editor-module-x64nt5g3)
 * [Customizing Detail Panels](https://unrealcommunity.wiki/customizing-detail-panels-g529msrd)
 * [Component Visualizers](https://unrealcommunity.wiki/component-visualizers-xaa1qsng)
+* [Building Binary Plugins in Unreal Engine](https://mercuna.com/building-binary-plugins-in-unreal-engine-4/)
